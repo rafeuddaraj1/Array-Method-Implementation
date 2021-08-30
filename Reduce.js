@@ -1,0 +1,1 @@
+// Reduce Method Implementation
